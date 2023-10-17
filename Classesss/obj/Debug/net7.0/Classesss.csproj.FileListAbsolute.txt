@@ -1,0 +1,15 @@
+/home/hazem/Documents/GitHub/JS-Algorhims-and-DS-PlayGround/Classesss/bin/Debug/net7.0/Classesss
+/home/hazem/Documents/GitHub/JS-Algorhims-and-DS-PlayGround/Classesss/bin/Debug/net7.0/Classesss.deps.json
+/home/hazem/Documents/GitHub/JS-Algorhims-and-DS-PlayGround/Classesss/bin/Debug/net7.0/Classesss.runtimeconfig.json
+/home/hazem/Documents/GitHub/JS-Algorhims-and-DS-PlayGround/Classesss/bin/Debug/net7.0/Classesss.dll
+/home/hazem/Documents/GitHub/JS-Algorhims-and-DS-PlayGround/Classesss/bin/Debug/net7.0/Classesss.pdb
+/home/hazem/Documents/GitHub/JS-Algorhims-and-DS-PlayGround/Classesss/obj/Debug/net7.0/Classesss.csproj.AssemblyReference.cache
+/home/hazem/Documents/GitHub/JS-Algorhims-and-DS-PlayGround/Classesss/obj/Debug/net7.0/Classesss.GeneratedMSBuildEditorConfig.editorconfig
+/home/hazem/Documents/GitHub/JS-Algorhims-and-DS-PlayGround/Classesss/obj/Debug/net7.0/Classesss.AssemblyInfoInputs.cache
+/home/hazem/Documents/GitHub/JS-Algorhims-and-DS-PlayGround/Classesss/obj/Debug/net7.0/Classesss.AssemblyInfo.cs
+/home/hazem/Documents/GitHub/JS-Algorhims-and-DS-PlayGround/Classesss/obj/Debug/net7.0/Classesss.csproj.CoreCompileInputs.cache
+/home/hazem/Documents/GitHub/JS-Algorhims-and-DS-PlayGround/Classesss/obj/Debug/net7.0/Classesss.dll
+/home/hazem/Documents/GitHub/JS-Algorhims-and-DS-PlayGround/Classesss/obj/Debug/net7.0/refint/Classesss.dll
+/home/hazem/Documents/GitHub/JS-Algorhims-and-DS-PlayGround/Classesss/obj/Debug/net7.0/Classesss.pdb
+/home/hazem/Documents/GitHub/JS-Algorhims-and-DS-PlayGround/Classesss/obj/Debug/net7.0/Classesss.genruntimeconfig.cache
+/home/hazem/Documents/GitHub/JS-Algorhims-and-DS-PlayGround/Classesss/obj/Debug/net7.0/ref/Classesss.dll

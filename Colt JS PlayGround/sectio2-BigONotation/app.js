@@ -22,10 +22,7 @@ addUpToo(1000000000000000000);
 var time2 = performance.now();
 
 console.log(`the time that has passed is ${(time2 - time1) / 100} seconds`);
- 
 
-//7. Counting Operations: 
-//so in add up to first the big o doesn't depend on the n 
+//7. Counting Operations:
+//so in add up to first the big o doesn't depend on the n
 // but in second it depends on n cuz the bigger the n the longer the loop will need to complete because of i <= n
-
-
