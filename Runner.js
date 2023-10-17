@@ -18,5 +18,3 @@
 // 1.B What are the inputs that go into the problem
 // 1.C What is the output? (what should be returned)
 // 1.D can the outputs be determined from the inputs?
-
-console.log("test")
